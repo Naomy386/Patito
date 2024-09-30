@@ -7,3 +7,5 @@ Meu nome é NANA
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
 ###  Você entrar em contato comigo 
+Alurastartestudante@email.com
+@alurastartestudante
